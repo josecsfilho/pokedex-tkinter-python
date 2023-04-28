@@ -5,7 +5,7 @@
   <h3>Pokédex</h3>
 
   <p align="center">
-  Pokédex (coleção de pokemons), aplicação desenvolvida através de estudos na internet
+  Pokédex, aplicação desenvolvida através de estudos na internet
   <br/> O projeto utiliza como base as seguintes.
   tecnologias: Python e tkinter.
   </p>  
